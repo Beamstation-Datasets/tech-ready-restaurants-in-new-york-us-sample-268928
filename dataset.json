@@ -1,0 +1,22 @@
+{
+  "base_price": 3495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "The \"Low Hanging Fruit.\" They have the budget but need the tech.\n\nRestaurants well-established (Beam Score > 70) and performing (sentiments last 30 days > 10 that lack online reservation AND online ordering\n\nReady for technology adoption and modernization.",
+  "config_name": "Tech-Ready Restaurants in New York, US",
+  "export_job_id": "9763577e-de54-498f-90e7-ede394ae6419",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 268928,
+  "location_name": "New York",
+  "location_type": "state",
+  "repo_name": "tech-ready-restaurants-in-new-york-us-sample-268928",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/268928/beamstation_268928_restaurants-us-ny_SAMPLE_DIST.csv",
+  "sample_pct": 9.84,
+  "sample_records": 25,
+  "sample_sha256": "6167f63f29e3d2b5f76bf03880a7a2e95bef045c402739952b7d99c63e2a2b79",
+  "sample_size_bytes": 107815,
+  "total_records": 254,
+  "updated_at": "2026-04-08T06:26:42.801310+00:00"
+}
