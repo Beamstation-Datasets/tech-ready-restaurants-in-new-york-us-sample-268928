@@ -1,12 +1,12 @@
 {
-  "export_job_id": "9763577e-de54-498f-90e7-ede394ae6419",
+  "export_job_id": "6c191797-3539-4018-a7d3-7d38dfb338b6",
   "id_short": 268928,
-  "published_at": "2026-04-11T19:12:47Z",
+  "published_at": "2026-04-19T07:47:54Z",
   "repo_name": "tech-ready-restaurants-in-new-york-us-sample-268928",
   "sample_asset_name": "beamstation_268928_restaurants-us-ny_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/268928/beamstation_268928_restaurants-us-ny_SAMPLE_DIST.csv",
-  "sample_records": 25,
-  "sample_sha256": "6167f63f29e3d2b5f76bf03880a7a2e95bef045c402739952b7d99c63e2a2b79",
-  "sample_size_bytes": 107815,
-  "total_records": 254
+  "sample_records": 19,
+  "sample_sha256": "39010cab12a10099cc22749bf9f4132d62129dcf17814bef46d40b752abefb56",
+  "sample_size_bytes": 85254,
+  "total_records": 195
 }
